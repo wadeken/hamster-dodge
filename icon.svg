@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- The hamster of the favicon on a ground that reaches every edge, and small enough to survive
+       whatever shape a phone cuts its icons to. The PNGs beside this are made from it: deploy/icons.mjs -->
+  <rect width="512" height="512" fill="#1f3d27"/>
+  <circle cx="256" cy="256" r="230" fill="#2a5233"/>
+  <g transform="translate(256 256) scale(11.5) translate(-16 -16)">
+    <circle cx="9" cy="7" r="5" fill="#cf8e48"/>
+    <circle cx="23" cy="7" r="5" fill="#cf8e48"/>
+    <circle cx="16" cy="17" r="13" fill="#f2b76b"/>
+    <circle cx="9" cy="21" r="5" fill="#fff2d8"/>
+    <circle cx="23" cy="21" r="5" fill="#fff2d8"/>
+    <circle cx="11" cy="14" r="2" fill="#2a1a12"/>
+    <circle cx="21" cy="14" r="2" fill="#2a1a12"/>
+  </g>
+</svg>

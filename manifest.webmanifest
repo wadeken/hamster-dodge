@@ -1,0 +1,17 @@
+{
+  "name": "滾滾田鼠：橡實風暴",
+  "short_name": "滾滾田鼠",
+  "description": "Hamster Dodge: Acorn Storm. 在四面八方的橡實彈幕中撐下去。",
+  "lang": "zh-Hant",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0c120e",
+  "theme_color": "#0c120e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
